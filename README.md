@@ -2,6 +2,12 @@
 
 Akıllı Bütçem, **BTK Hackathon 26** için özel olarak geliştirilmiş; kullanıcıların gelir-gider takibini kolaylaştıran ve yapay zeka desteğiyle kişiselleştirilmiş finansal tavsiyeler sunan modern bir bütçe yönetim uygulamasıdır.
 
+## 🌐 Canlı Demo (Live)
+
+Uygulamayı canlı olarak test edebilirsiniz:
+- 🔗 **Ana Alan Adı:** [https://akillibutcem.beratozkan.tech/](https://akillibutcem.beratozkan.tech/)
+- 🔗 **Vercel:** [https://akillibutcem-btk-hackathon26.vercel.app/](https://akillibutcem-btk-hackathon26.vercel.app/)
+
 ## 🚀 Özellikler
 
 *   **📊 Detaylı Finansal Analiz:** Gelir ve giderlerinizi kategorize ederek etkileşimli grafiklerle aylık bütçenizi kolayca takip edin.
@@ -12,11 +18,11 @@ Akıllı Bütçem, **BTK Hackathon 26** için özel olarak geliştirilmiş; kull
 
 ## 🛠️ Kullanılan Teknolojiler
 
-*   **Frontend:** React (Vite), TypeScript, Tailwind CSS
+*   **Frontend:** React (Vite), TypeScript, Tailwind CSS, Radix UI
 *   **Backend & Veritabanı:** Supabase (PostgreSQL, Auth)
-*   **Yapay Zeka:** Google Gemini API
+*   **Yapay Zeka:** Google Generative AI (Gemini API)
 *   **Durum Yönetimi (State):** Zustand / Custom React Hooks
-*   **İkonlar:** Lucide React
+*   **Geliştirme Ortamı & Asistan:** Google DeepMind tarafından geliştirilen **Antigravity** yapay zeka asistanı destekli IDE ile **Vibe Coding** metodolojisi kullanılarak geliştirilmiştir.
 
 ## 💻 Kurulum ve Çalıştırma
 
