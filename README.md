@@ -52,8 +52,9 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
    npm run dev
    ```
 
-## 👥 Geliştirici
-* **Berat Özkan** - [GitHub Profili](https://github.com/ozknnberat)
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
 
