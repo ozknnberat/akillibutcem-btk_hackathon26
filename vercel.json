@@ -1,8 +1,10 @@
 {
   "rewrites": [
-    {
-      "source": "/((?!api|_next|.*\\..*).*)",
-      "destination": "/index.html"
-    }
+    { "source": "/login", "destination": "/index.html" },
+    { "source": "/register", "destination": "/index.html" },
+    { "source": "/dashboard", "destination": "/index.html" },
+    { "source": "/history", "destination": "/index.html" },
+    { "source": "/settings", "destination": "/index.html" },
+    { "source": "/((?!api|_next|.*\\..*).*)", "destination": "/index.html" }
   ]
 }
