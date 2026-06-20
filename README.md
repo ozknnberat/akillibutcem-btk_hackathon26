@@ -1,5 +1,6 @@
 # 💸 Akıllı Bütçem
 
+> **Bu proje Berat Özkan tarafından geliştirilmiştir. Detaylar için [beratozkan.tech](https://beratozkan.tech) adresini ziyaret edebilirsiniz.**
 Akıllı Bütçem, **BTK Hackathon 26** için özel olarak geliştirilmiş; kullanıcıların gelir-gider takibini kolaylaştıran ve yapay zeka desteğiyle kişiselleştirilmiş finansal tavsiyeler sunan modern bir bütçe yönetim uygulamasıdır.
 
 ## 🌐 Canlı Demo (Live)
