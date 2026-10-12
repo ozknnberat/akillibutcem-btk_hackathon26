@@ -42,9 +42,9 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 3. **Çevre Değişkenlerini Ayarlayın:**
    Proje kök dizininde bir `.env` dosyası oluşturun ve aşağıdaki değişkenleri kendi API anahtarlarınız ile doldurun:
    ```env
-   VITE_SUPABASE_URL=sizin_supabase_url_adresiniz
-   VITE_SUPABASE_ANON_KEY=sizin_supabase_anon_key_degeriniz
-   VITE_GEMINI_API_KEY=sizin_gemini_api_anahtariniz
+   VITE_SUPABASE_URL=Supabase URL'niz
+   VITE_SUPABASE_ANON_KEY=API KEY'ınız
+   VITE_GEMINI_API_KEY=API KEY'ınız
    ```
 
 4. **Geliştirme Sunucusunu Başlatın:**
