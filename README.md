@@ -6,7 +6,6 @@ Akıllı Bütçem, **BTK Hackathon 26** için özel olarak geliştirilmiş; kull
 ## 🌐 Canlı Demo (Live)
 
 Uygulamayı canlı olarak test edebilirsiniz:
-- 🔗 **Ana Alan Adı:** [https://akillibutcem.beratozkan.tech/](https://akillibutcem.beratozkan.tech/)
 - 🔗 **Vercel:** [https://akillibutcem-btk-hackathon26.vercel.app/](https://akillibutcem-btk-hackathon26.vercel.app/)
 
 ## 🚀 Özellikler

@@ -1,2 +1,6 @@
 .env
 node_modules
+
+# Derleme çıktısı ve sistem dosyaları
+dist
+.DS_Store
